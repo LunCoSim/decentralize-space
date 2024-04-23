@@ -15,5 +15,5 @@ LunCo's subproject with aiming to provide community with the latest news regardi
 2. Optimism: [0x34dd3CA8dd382A868C6660c76170e19A2b245f85](https://optimistic.etherscan.io/address/0x34dd3CA8dd382A868C6660c76170e19A2b245f85)
 3. zkSync: [0x839Ba396c245F0e257d1babD95ce197a9188CCaC](https://explorer.zksync.io/address/0x839Ba396c245F0e257d1babD95ce197a9188CCaC) 
 4. Arbitrum: [0x95C0c284697105B802Acc41140B7e7B626978462](https://arbiscan.io/address/0x95C0c284697105B802Acc41140B7e7B626978462)
-5. Scroll: TBD
-6. Base: TBD
+5. Scroll: [0x22d946943D601FF97d14Bf6E3B7bed4FE1163F8F](https://scrollscan.com/address/0x22d946943D601FF97d14Bf6E3B7bed4FE1163F8F)
+6. Base: [0x7D2CA20e9214B8ac6189ffa6Ff8430e3e105eadA](https://basescan.org/address/0x7D2CA20e9214B8ac6189ffa6Ff8430e3e105eadA)
